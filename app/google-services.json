@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "655207937249",
+    "firebase_url": "https://andoid-poly.firebaseio.com",
+    "project_id": "andoid-poly",
+    "storage_bucket": "andoid-poly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655207937249:android:ec946a59c3b8e795",
+        "android_client_info": {
+          "package_name": "edu.poly.firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655207937249-js2bkmvmt45fq29gd2juuclpuh29m5f5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.poly.firebase_auth",
+            "certificate_hash": "E8BE69A84CB3E98CAA2ACE8F754E3E0D2C3EDD5B"
+          }
+        },
+        {
+          "client_id": "655207937249-t5amfl1i2hhjhl5u73tecat9g442ruje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5RhPBXHxmdr2wMuD0SssCku6vkNwm13o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655207937249-t5amfl1i2hhjhl5u73tecat9g442ruje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
